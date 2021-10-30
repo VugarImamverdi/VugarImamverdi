@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VugarImamverdi
+- 👋 Hi, I’m Vugar Imamverdi
 - 👀 I’m interested in data
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
